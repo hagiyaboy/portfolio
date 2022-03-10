@@ -16,3 +16,9 @@ a {
 img {
     max-width: 100%;
 }
+
+/* サイドバー(mainnav)
+------------------------------------------- */
+.pageHeader {
+    background-color: yellow;
+}
